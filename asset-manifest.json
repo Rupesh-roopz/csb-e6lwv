@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-e6lwv/static/js/main.1d706fb9.chunk.js",
-    "main.js.map": "https://.github.io/csb-e6lwv/static/js/main.1d706fb9.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-e6lwv/static/js/runtime-main.b88a6230.js",
-    "runtime-main.js.map": "https://.github.io/csb-e6lwv/static/js/runtime-main.b88a6230.js.map",
-    "static/js/2.0868ca97.chunk.js": "https://.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js",
-    "static/js/2.0868ca97.chunk.js.map": "https://.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js.map",
-    "index.html": "https://.github.io/csb-e6lwv/index.html",
-    "static/js/2.0868ca97.chunk.js.LICENSE.txt": "https://.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js.LICENSE.txt"
+    "main.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.c35c8f1d.chunk.js",
+    "main.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.c35c8f1d.chunk.js.map",
+    "runtime-main.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/runtime-main.644e0ced.js",
+    "runtime-main.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/runtime-main.644e0ced.js.map",
+    "static/js/2.0868ca97.chunk.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js",
+    "static/js/2.0868ca97.chunk.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js.map",
+    "index.html": "https://rupesh-roopz.github.io/csb-e6lwv/index.html",
+    "static/js/2.0868ca97.chunk.js.LICENSE.txt": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b88a6230.js",
+    "static/js/runtime-main.644e0ced.js",
     "static/js/2.0868ca97.chunk.js",
-    "static/js/main.1d706fb9.chunk.js"
+    "static/js/main.c35c8f1d.chunk.js"
   ]
 }
