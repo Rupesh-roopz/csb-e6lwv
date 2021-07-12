@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.c35c8f1d.chunk.js",
-    "main.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.c35c8f1d.chunk.js.map",
+    "main.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.67bd34d5.chunk.js",
+    "main.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/main.67bd34d5.chunk.js.map",
     "runtime-main.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/runtime-main.644e0ced.js",
     "runtime-main.js.map": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/runtime-main.644e0ced.js.map",
     "static/js/2.0868ca97.chunk.js": "https://rupesh-roopz.github.io/csb-e6lwv/static/js/2.0868ca97.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.644e0ced.js",
     "static/js/2.0868ca97.chunk.js",
-    "static/js/main.c35c8f1d.chunk.js"
+    "static/js/main.67bd34d5.chunk.js"
   ]
 }
